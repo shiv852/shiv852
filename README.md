@@ -9,3 +9,47 @@ DevOps Engineer | Cloud | Kubernetes | Automation
 <p align="center">
 Building scalable infrastructure and automated deployment pipelines
 </p>
+
+
+
+## 🛠️ Tech Stack
+
+
+### Cloud
+
+AWS | Azure | GCP
+
+
+### Containers
+
+Docker
+Kubernetes
+Helm
+
+
+### Infrastructure
+
+Terraform
+Ansible
+CloudFormation
+
+
+### CI/CD
+
+GitHub Actions
+Jenkins
+GitLab CI
+
+
+### Monitoring
+
+Prometheus
+Grafana
+ELK Stack
+
+
+### Operating Systems
+
+Linux
+Ubuntu
+Amazon Linux
